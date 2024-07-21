@@ -46,6 +46,8 @@
 - **分區數量（K）**：1、10、100和1000
 - **比較方法**：多進程、多線程和純氣泡排序
 
+<img src="https://github.com/NoahWudev/multi_process-threads_sort/blob/master/exp_log.jpg" alt="alt text" width="700" height="390">
+
 圖表顯示了每種方法在不同條件下的排序時間，幫助用戶直觀地比較各種實現的效率。
 
 ## 使用說明
